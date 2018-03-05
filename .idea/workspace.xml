@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9360480-a66c-44f0-8348-599bd8a7da22" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/db/migrate/20180227222732_create_users.rb" afterPath="$PROJECT_DIR$/db/migrate/20180227220732_create_users.rb" />
+      <change beforePath="$PROJECT_DIR$/db/migrate/20180227222710_create_articles.rb" afterPath="$PROJECT_DIR$/db/migrate/20180227220733_create_articles.rb" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -359,12 +359,12 @@
       <option name="presentableId" value="Default" />
       <updated>1519769125194</updated>
       <workItem from="1519769128259" duration="6962000" />
-      <workItem from="1520284682224" duration="50000" />
+      <workItem from="1520284682224" duration="230000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7012000" />
+    <option name="totallyTimeSpent" value="7192000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="396" y="-4" width="1129" height="817" extended-state="6" />
